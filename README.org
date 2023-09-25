@@ -1,0 +1,40 @@
+#+title: Deep Learning 2
+
+This repo contains homeworks and lecture slides for the Deep Learning
+course at the [[https://cs.hse.ru/en/][Faculty of Computer Science]] of [[https://www.hse.ru/en/][HSE University]]. Previous
+versions of the course are available at https://github.com/mryab/dl-hse-ami and https://github.com/aosokin/dl_cshse_ami
+
+* Syllabus
+** week 1: Deep Learning best practices
+- Lecture by [[https://mryab.github.io/][Max Ryabinin]] ([[file:week01-intro/lecture-best-practices.pdf][slides]])
+- PyTorch homework ([[file:week01-intro/pytorch.ipynb][ipynb]])
+- Looking for bugs homework ([[file:week01-intro/looking_for_bugs.ipynb][ipynb]])
+** week 2: Computer vision (detection)
+- Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]]
+** week 3: Computer vision (segmentation)
+- Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]]
+- detectron and segment anything homework (ipynb)
+** week 4: 3D vision (NeRF)
+- Lecture by [[https://www.hse.ru/en/org/persons/165140955][Kirill Struminsky]]
+** week 5: Transformers (architectures)
+- Lecture by TBD
+- homework: implementing transformer and linear attention (ipynb)
+- *BIG* homework-1 ~<<<start~
+** week 6: Transformers (LLMs, interpretability)
+- Lecture by TBd
+** week 7: Generative models (VAE, GAN)
+- Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]]
+- *BIG* homework-2 ~<<<start~
+- GAN homework (ipynb)
+** week 8: Generative Models (Diffusion)
+- Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]]
+- diffusion homework (ipynb)
+- *BIG* homework-1 ~end>>>~
+** week 9: Graph neural networks
+- Lecture by TBD
+- gnn homework (ipynb)
+** week 10: Tabular Deep Learning
+- Lecture by [[https://github.com/Yura52][Yura Gorihsniy]]
+- *BIG* homework-2 ~end>>>~
+- tabular homework (ipynb)
+
