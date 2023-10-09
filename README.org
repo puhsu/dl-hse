@@ -10,7 +10,7 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 - PyTorch homework ([[file:week01-intro/pytorch.ipynb][ipynb]])
 - Looking for bugs homework ([[file:week01-intro/looking_for_bugs.ipynb][ipynb]])
 ** week 2: Computer vision (detection)
-- Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]]
+- Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]] ([[file:week02-detection/DL_2CV_04objectdetection_lec01.pdf][slides]])
 ** week 3: Computer vision (segmentation)
 - Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]]
 - detectron and segment anything homework (ipynb)
