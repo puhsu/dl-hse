@@ -16,10 +16,7 @@ This homework is organized into multiple files:
 - [`./fcos.py`](./fcos.py): The file for the implementation.
 - [`./utils.py`](./utils.py): Utilities and helper functions, you do not need to edit this file, but may have a look and understand it.
 
-We recommend you to first write and debug code in your editor of
-choice locally (you may use the instructions to setup the environment
-from the [pytorch](../../week01-intro/pytorch.ipynb) notebook and then run training in colab. (*dont
-forget to upload the fcos.py file to the colab*, everything else should be there for you).
+We recommend you to first write and debug code in your editor of choice locally (you may use the instructions to setup the environment from the [pytorch](../../week01-intro/pytorch.ipynb) notebook and then run training in colab. (*dont forget to upload the fcos.py file to the colab*, everything else should be there for you).
 
 **Note**: You have to submit both ipynb and py files to anytask (separately, not as an archive).
 
