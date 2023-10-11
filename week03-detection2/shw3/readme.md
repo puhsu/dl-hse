@@ -4,9 +4,9 @@
 
 **Assignment points**: 1.5 (+0.5 bonus for the two stage detector *coming soon, here*)
 
-**Deadline**: 23.10.2024 (11:00)
+**Deadline**: 23.10.2023 (11:00)
 
-**Hard deadline** 24.10.2024 (11:00) (-0.1 point)
+**Hard deadline** 24.10.2023 (11:00) (-0.1 point)
 
 This assignment is from the University of Michigan [DL for CV course](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/). Your task is to implement and train the FCOS detector https://arxiv.org/abs/1904.01355 (which we talked about in [lecture 2](../DL_2CV_04objectdetection_lec02.pdf)).
 
