@@ -11,9 +11,10 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 - Looking for bugs homework ([[file:week01-intro/looking_for_bugs.ipynb][ipynb]])
 ** week 2: Computer vision (detection)
 - Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]] ([[file:week02-detection/DL_2CV_04objectdetection_lec01.pdf][slides]])
-** week 3: Computer vision (segmentation)
-- Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]]
-- detectron and segment anything homework (ipynb)
+** week 3: Computer vision (detection2)
+- Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]] ([[file:week03-detection2/DL_2CV_04objectdetection_lec02.pdf][slides]])
+- FCOS detector ([[file:week03-detection2/shw3/README.org][shw3]])
+
 ** week 4: 3D vision (NeRF)
 - Lecture by [[https://www.hse.ru/en/org/persons/165140955][Kirill Struminsky]]
 ** week 5: Transformers (architectures)
