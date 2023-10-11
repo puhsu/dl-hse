@@ -18,9 +18,8 @@ This homework is organized into multiple files:
 
 We recommend you to first write and debug code in your editor of
 choice locally (you may use the instructions to setup the environment
-from the [[file:~/repos/dl-hse-1/week01-intro/pytorch.ipynb][pytorch]] notebook) and then run training in colab. (/dont
-forget to upload the fcos.py file to the colab/, everything else
-should be there).
+from the [pytorch](../../week01-intro/pytorch.ipynb) notebook and then run training in colab. (*dont
+forget to upload the fcos.py file to the colab*, everything else should be there for you).
 
-You have to submit both ipynb and py files to anytask (separately, not as an archive).
+**Note**: You have to submit both ipynb and py files to anytask (separately, not as an archive).
 
