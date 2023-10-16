@@ -2,7 +2,7 @@
 
 <img src="./person.png" style="width: 30%;">
 
-**Assignment points**: 1.5 (+0.5 bonus for the two stage detector *coming soon, here*)
+**Assignment points**: 1.5 (+0.5 bonus for the two stage detector)
 
 **Deadline**: 23.10.2023 (11:00)
 
@@ -20,3 +20,10 @@ We recommend you to first write and debug code in your editor of choice locally 
 
 **Note**: You have to submit both ipynb and py files to anytask (separately, not as an archive).
 
+# BONUS: Faster-RCNN detector
+
+**Assignment points**: 0.5
+
+**Deadline**: 30.10.2023 (11:00)
+**Hard deadline**: 31.10.2023 (11:00)
+Your task is to implement and train the [Faster-RCNN detector](https://arxiv.org/abs/1506.01497) (which we talked about in [lecture 1](../../week02-detection/DL_2CV_04objectdetection_lec01.pdf)
