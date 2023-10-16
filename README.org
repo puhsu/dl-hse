@@ -13,10 +13,10 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 - Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]] ([[file:week02-detection/DL_2CV_04objectdetection_lec01.pdf][slides]])
 ** week 3: Computer vision (detection2)
 - Lecture by [[https://alexanderdyakonov.wordpress.com/ag/][Alexander Dyakonov]] ([[file:week03-detection2/DL_2CV_04objectdetection_lec02.pdf][slides]])
-- FCOS detector ([[file:week03-detection2/shw3/README.org][shw3]])
+- FCOS detector ([[file:week03-detection2/shw3/readme.md][shw3]])
 
-** week 4: 3D vision (NeRF)
-- Lecture by [[https://www.hse.ru/en/org/persons/165140955][Kirill Struminsky]]
+** week 4: Neural Fields
+- Lecture by [[https://www.hse.ru/en/org/persons/165140955][Kirill Struminsky]] ([[file:week04-neural-fields/lecture_16_10_23.pdf][slides]])
 ** week 5: Transformers (architectures)
 - Lecture by TBD
 - homework: implementing transformer and linear attention (ipynb)
