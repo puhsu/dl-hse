@@ -25,5 +25,12 @@ We recommend you to first write and debug code in your editor of choice locally 
 **Assignment points**: 0.5
 
 **Deadline**: 30.10.2023 (11:00)
+
 **Hard deadline**: 31.10.2023 (11:00)
-Your task is to implement and train the [Faster-RCNN detector](https://arxiv.org/abs/1506.01497) (which we talked about in [lecture 1](../../week02-detection/DL_2CV_04objectdetection_lec01.pdf)
+Your task is to implement and train the [Faster-RCNN detector](https://arxiv.org/abs/1506.01497) (which we talked about in [lecture 1](../../week02-detection/DL_2CV_04objectdetection_lec01.pdf))
+
+This homework is organized into multiple files:
+- [`./fcos.py`](./fcos.py): The file you implemented in the main part of the homework.
+- [`./lib`](./lib): Utilities and helper functions, you do not need to edit these files, but may have a look and understand them.
+- [`./two_stage_detector.ipynb`](./two_stage_detector.ipynb):  Notebook that will guide you through the implementation with the scoring at the end.
+- [`./two_stage_detector.py`](./two_stage_detector.py):  The file for the implementation.
