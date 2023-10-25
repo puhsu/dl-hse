@@ -34,3 +34,5 @@ This homework is organized into multiple files:
 - [`./lib`](./lib): Utilities and helper functions, you do not need to edit these files, but may have a look and understand them.
 - [`./two_stage_detector.ipynb`](./two_stage_detector.ipynb):  Notebook that will guide you through the implementation with the scoring at the end.
 - [`./two_stage_detector.py`](./two_stage_detector.py):  The file for the implementation.
+
+Note: You have to submit both ipynb and py files to anytask (separately, not as an archive).
