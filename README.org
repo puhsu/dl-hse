@@ -18,11 +18,11 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 ** week 4: Neural Fields
 - Lecture by [[https://www.hse.ru/en/org/persons/165140955][Kirill Struminsky]] ([[file:week04-neural-fields/lecture_16_10_23.pdf][slides]])
 ** week 5: Transformers (architectures)
-- Lecture by TBD
-- homework: implementing transformer and linear attention (ipynb)
+- Lecture by [[https://www.hse.ru/org/persons/190912012][Ivan Rubachev]] ([[file:week05-transformers/lecture-slides.pdf.pdf][slides]])
+- homework: implementing transformer and linear attention ([[file:week05-transformers/shw4/homework.ipynb][ipynb]])
 - *BIG* homework-1 ~<<<start~
 ** week 6: Transformers (LLMs, interpretability)
-- Lecture by TBd
+- Lecture by TBD 
 ** week 7: Generative models (VAE, GAN)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]]
 - *BIG* homework-2 ~<<<start~
