@@ -112,11 +112,11 @@ after debugging.
 
 There will be two deadlines (So that you don't try to cramp everything into the last week). 
 
-**Checkpoint Deadline**. ⚠️ Only hard deadline ⚠️. By `20.11.2023` you
+**Checkpoint Deadline**. ⚠️ Only hard deadline ⚠️. By `20.11.2023 11:00` you
 should submit working training code. Working = it doesn't crash and
 seemingly trains the model. **If nothing is submitted** here, **we will subtract 2 points from the final grade**.
 
-**Final Deadline**. ⚠️ Only hard deadline ⚠️. By `04.12.2023` you should
+**Final Deadline**. ⚠️ Only hard deadline ⚠️. By `04.12.2023 11:00` you should
 submit the final training code, model checkpoint and the detailed
 report (In either [typst](https://typst.app), [quarto](https://quarto.org), [wandb](https://wandb.ai/site/reports) or LaTeX).
 
