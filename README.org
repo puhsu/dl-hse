@@ -19,19 +19,18 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 ** week 5: Transformers (architectures)
 - Lecture by [[https://www.hse.ru/org/persons/190912012][Ivan Rubachev]] ([[file:week05-transformers/lecture-slides.pdf][slides]])
 - homework: implementing transformer and linear attention ([[file:week05-transformers/shw4/homework.ipynb][ipynb]])
-- *BIG* homework-1 ~<<<start~
 ** week 6: Transformers (LLMs, interpretability)
 - Lecture by [[https://github.com/puhsu][Ivan Rubachev]] ([[file:week06-transformers/lecture-slides.pdf][slides]])
-- *BIG* homework-1 ~<<<start~ ([[file:week06-transformers/bhw01/README.md][readme]])
+- *BIG* homework-1 ([[file:week06-transformers/bhw01/README.md][readme]])
 ** week 7: Generative models (VAE, GAN)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]]
-- *BIG* homework-2 ~<<<start~
 - GAN homework (ipynb)
 ** week 8: Generative Models (Diffusion)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]]
 - diffusion homework (ipynb)
 ** week 9: Graph neural networks
 - Lecture by TBD
+- *BIG* homework-2 
 - gnn homework (ipynb)
 ** week 10: Tabular Deep Learning
 - Lecture by [[https://github.com/Yura52][Yura Gorihsniy]]
