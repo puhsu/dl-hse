@@ -22,8 +22,8 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 ** week 6: Transformers (LLMs, interpretability)
 - Lecture by [[https://github.com/puhsu][Ivan Rubachev]] ([[file:week06-transformers/lecture-slides.pdf][slides]])
 - *BIG* homework-1 ([[file:week06-transformers/bhw01/README.md][readme]])
-** week 7: Generative models (VAE, GAN)
-- Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]] ([[file:week07-GANs/GANs.pdf][slides]])
+** week 7: Generative models (Intro to divergences and GANs)
+- Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]] ([[file:week07-GANs/GANs.pdf][slides]]) ([[file:week07-GANs/GANs evolution.pdf][Evolution slides]]) 
 - GAN homework (ipynb)
 ** week 8: Generative Models (Diffusion)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]]
