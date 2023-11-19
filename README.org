@@ -25,7 +25,7 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 ** week 7: Generative models (Intro to divergences and GANs)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]] ([[file:week07-GANs/GANs.pdf][slides]]) ([[file:week07-GANs/GANs evolution.pdf][Evolution slides]]) 
 - GAN homework (ipynb)
-** week 8: Generative Models (Diffusion)
+** week 8: Generative Models (VAE, Diffusion)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]]
 - diffusion homework (ipynb)
 ** week 9: Graph neural networks
