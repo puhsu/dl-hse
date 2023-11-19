@@ -1,6 +1,6 @@
 #+title: Deep Learning 2
 
-This repo contains homeworks and lecture slides for the Deep Learning
+This repo contains homework and lecture slides for the Deep Learning
 course at the [[https://cs.hse.ru/en/][Faculty of Computer Science]] of [[https://www.hse.ru/en/][HSE University]]. Previous
 versions of the course are available at https://github.com/mryab/dl-hse-ami and https://github.com/aosokin/dl_cshse_ami
 
