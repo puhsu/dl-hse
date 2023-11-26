@@ -44,6 +44,7 @@ dependencies:
 - pytorch::pytorch-cuda=12.1
 - sentencepiece
 - requests
+- matplotlib
 - wandb
 - tensorboard
 - tqdm

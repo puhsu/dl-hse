@@ -29,10 +29,12 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]] ([[file:week08-VAE-Diff/VAE.pdf][VAE slides]]) ([[file:week08-VAE-Diff/Diffusion.pdf][Diffusion slides]]) 
 - diffusion homework (ipynb)
 ** week 9: Graph neural networks
-- Lecture by TBD
-- *BIG* homework-2 
-- gnn homework (ipynb)
+- Lecture by [[https://www.hse.ru/org/persons/208486877][Gleb Bazhenov]]
+- Seminar by [[https://www.hse.ru/org/persons/137327627][Oleg Platonov]]
+- gnn homework ([[file:week09-GNN/shw06.ipynb][ipynb]])
+
 ** week 10: Tabular Deep Learning
 - Lecture by [[https://github.com/Yura52][Yura Gorihsniy]]
+- *BIG* homework-2 
 - tabular homework (ipynb)
 
