@@ -24,10 +24,10 @@ versions of the course are available at https://github.com/mryab/dl-hse-ami and 
 - *BIG* homework-1 ([[file:week06-transformers/bhw01/README.md][readme]])
 ** week 7: Generative models (Intro to divergences and GANs)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]] ([[file:week07-GANs/GANs.pdf][slides]]) ([[file:week07-GANs/GANs-evolution.pdf][Evolution slides]]) 
-- GAN homework (ipynb)
 ** week 8: Generative Models (VAE, Diffusion)
 - Lecture by [[https://www.hse.ru/org/persons/190918370][Aziz Temirkhanov]] ([[file:week08-VAE-Diff/VAE.pdf][VAE slides]]) ([[file:week08-VAE-Diff/Diffusion.pdf][Diffusion slides]]) 
-- diffusion homework (ipynb)
+- diffusion homework ([[file:week08-VAE-Diff/shw5/homework.ipynb][ipynb]])
+- big homework ([[file:week08-VAE-Diff/bhw02/readme.md][readme]])
 ** week 9: Graph neural networks
 - Lecture by [[https://www.hse.ru/org/persons/208486877][Gleb Bazhenov]] ([[file:week09-GNN/lecture-slides.pdf][slides]])
 - Seminar by [[https://www.hse.ru/org/persons/137327627][Oleg Platonov]]
