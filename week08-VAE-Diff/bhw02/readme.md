@@ -26,6 +26,13 @@ generate one yourself (e.g. [The Five DollarModel](https://arxiv.org/abs/2308.04
 https://www.kaggle.com/datasets/soumikrakshit/anime-faces/data
 ```
 
+## Papers
+StyleGAN https://arxiv.org/abs/1812.04948
+StyleGAN3 https://arxiv.org/abs/2106.12423
+WGAN-GP https://arxiv.org/abs/1704.00028
+WGAN-SN https://arxiv.org/abs/1802.05957
+DDPM https://arxiv.org/abs/2006.11239
+
 ## Code & Advice
 
 > [!IMPORTANT]
