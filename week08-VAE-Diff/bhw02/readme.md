@@ -27,11 +27,11 @@ https://www.kaggle.com/datasets/soumikrakshit/anime-faces/data
 ```
 
 ## Papers
-StyleGAN https://arxiv.org/abs/1812.04948
-StyleGAN3 https://arxiv.org/abs/2106.12423
-WGAN-GP https://arxiv.org/abs/1704.00028
-WGAN-SN https://arxiv.org/abs/1802.05957
-DDPM https://arxiv.org/abs/2006.11239
+StyleGAN https://arxiv.org/abs/1812.04948 <br>
+StyleGAN3 https://arxiv.org/abs/2106.12423 <br>
+WGAN-GP https://arxiv.org/abs/1704.00028 <br> 
+WGAN-SN https://arxiv.org/abs/1802.05957<br>
+DDPM https://arxiv.org/abs/2006.11239 <br>
 
 ## Code & Advice
 
