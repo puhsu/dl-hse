@@ -83,7 +83,7 @@ Add a general conclusion about work as a whole.
 
 There will be one deadline
 
-**Final Deadline**. By `18.12.2023 11:00` you should submit the model, the training script, and the detailed report (In either [typst](https://typst.app), [quarto](https://quarto.org), [wandb](https://wandb.ai/site/reports) or LaTeX).
+**Final Deadline**. By `18.12.2023 23:30` you should submit the model, the training script, and the detailed report (In either [typst](https://typst.app), [quarto](https://quarto.org), [wandb](https://wandb.ai/site/reports) or LaTeX).
 
 ## Plagiarism
 
