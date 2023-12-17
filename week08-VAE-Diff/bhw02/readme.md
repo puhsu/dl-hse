@@ -68,9 +68,9 @@ The report should contain all the details about your reimplementation: log
 experiments, final configuration parameters and describe the process
 in detail (as in the first big homework). The details you listed in the report must be sufficient to 
 reproduce all your results. Also, don't forget about the conclusion section, where you reflect on your thoughts about the results you've got
-and possible reasons why (why the results are good or not as good). Is there are any ideas left untested (because you didn't have enough time/resources to test them all)? 
-Also, besides human evaluation, reflect your opinion on the numerical evaluation. Does FID and SSIM describe the quality improvement throughout the training process well enough? 
-Would you change anything for the evaluation step, and if yes, why? 
+and possible reasons why (why the results are good or not as good). Is there are any ideas left untested (because you didn't have enough time/resources to test them all)? <br>
+Also, besides human evaluation, reflect your opinion on the numerical evaluation. Does FID and SSIM describe the quality improvement throughout the training process well enough? <br>
+Would you change anything for the evaluation step, and if yes, why? <br>
 Add a general conclusion about work as a whole.
 
 ## Scoring
