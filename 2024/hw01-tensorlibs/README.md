@@ -3,7 +3,7 @@
 The goal of this homework is to practice using PyTorch and get experience with profiling, running
 multi-GPU training jobs in an almost real-world setup. 
 
-There are multiple graded parts to this homework:
+Table of Contents:
 
 1. [MiniTorch](#MiniTorch) Make your own PyTorch 
 2. [Tensor Puzzles](#Tensor-Puzzles) Work on your broadcasting skills 
@@ -52,7 +52,7 @@ Bonus Parts:
 > practice, the tensor language is extremely expressive, and you can do most things from first
 > principles and clever use of broadcasting.
 
-<p align="center"> <img src=".static/broadcasting.png" style="width: 40%;"> </p>
+<p align="center"> <img src="./static/broadcasting.png" style="width: 80%;"> </p>
 <p align="center">Broadcasting.</p>
 
 In the previous task we've built a simple tensor programming library with basic ops. In this task
@@ -71,28 +71,28 @@ Tensor Puzzles Notebook:
 
 **Grading in Anytask**: 
 
-- **2pts** For the code with solved puzzles, that is passing all the tests.
+- **2pts** For the code with solved puzzles, that is passing all the tests (add notebook to anytask)
 - Each puzzle is equal in terms of point distribution if you solve fewer than 21 puzzles.
 
 
 ## Efficient PyTorch
 
-Writing efficient code is . Sometimes you need to read and optimize esoteric PyTorch (or else) code
-. You may encounter this at your work-place, maintaining some production system, or in research
-scenarios - evaluating baselines or building on some research code. 
+Writing efficient code is very important in DL. However, oftentimes you would need to read and optimize esoteric PyTorch (or else) code. 
+You may encounter this at your work-place, maintaining some production system, or in research
+scenarios - evaluating baselines or building on some research code.
 
 This task takes inspiration from such occasions. You are given a script for
 a slightly modified neural network for tabular data from an ICML
 [paper](https://arxiv.org/abs/2305.18446) (Don't think too much of it, you'll see that the model is
-complicated and slow -- perfect candidate to practice code optimization). 
+complicated and slow -- perfect candidate to practice code optimization).
 
 The [`train.py`](./train.py) file correctly implements the model from the following figure, the only
 modification is in the expansion block where we thrown away all the non-linearities (this is
 important for significantly optimizing this part of code). The code currently runs at ~14 objects
 per second on one Kaggle T4 GPU. Your goal is to speed-it up approximately **500x**. You should use
-Kaggle public notebooks with two T4 GPU's. The solution runs at ~
+Kaggle public notebooks with two T4 GPU's. The solution runs at ~7K objects per second.
 
-<p align="center"> <img src=".static/trompt.png" style="width: 70%;"> </p>
+<p align="center"> <img src="./static/trompt.png" style="width: 70%;"> </p>
 <p align="center">Modified Trompt Architecture.</p>
 
 **Concept of a Plan**:
