@@ -23,12 +23,9 @@ Anytask course link: https://anytask.org/course/1146
 
 Regular home assignments: 
 - [hw1](./hw01-tensorlibs): Tensor and DL Libraries
-- hw2: Bug Fixes in a modern Transformer Model (+ using LLMs)
+- [hw2](./hw02-llms): Using LLMs
 - hw3: Computer Vision
-- hw4: Neural Fields
-- hw5: Tabular Data
-- hw6: Graph Neural Networks
-- hw7: Diffusion Models
+- hw4: (bouns) diffusion models
 
 Large Project Assignment:
 - big-hw Boutique Language Models from Scratch
